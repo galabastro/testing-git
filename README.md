@@ -5,3 +5,5 @@ This is a change from BRANCH-1
 This is a change from BRANCH-2
 <br />
 I also added a file
+<br />
+I also added another file
